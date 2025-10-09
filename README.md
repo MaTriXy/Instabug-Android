@@ -1,3 +1,15 @@
+> ⚠️ **Repository Archived**
+>
+> This SDK has been rebranded from **Instabug** to **Luciq**.
+>
+> The new repo can be found [here →](https://github.com/luciqai/luciq-android-sdk)
+>
+> This repository is no longer maintained.
+> You can also check out our [Migration Guide](https://docs.luciq.ai/docs/android-luciq-migration) for more detailed information about how to migrate to the new SDK.
+
+
+
+
 # Instabug Android SDK
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.instabug.library/instabug.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.instabug.library%22%20AND%20a:%22instabug%22) ![Twitter](https://img.shields.io/badge/twitter-@Instabug-blue.svg)
